@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bf4e9078c3692210311971edd4013119" label="Marca" max_length="40" name="x_849476_furgonc_0_marca" type="collection">
+        <element display="true" label="Nome Marca" max_length="40" name="nome_marca" type="string"/>
+        <element label="Categoria" max_length="32" name="categoria" reference="x_849476_furgonc_0_categoria" type="reference"/>
+        <index name="index">
+            <element name="categoria"/>
+        </index>
+    </element>
+</database>

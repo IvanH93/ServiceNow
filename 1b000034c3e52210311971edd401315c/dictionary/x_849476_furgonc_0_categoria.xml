@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6c700834c3e52210311971edd4013176" label="Categoria" max_length="40" name="x_849476_furgonc_0_categoria" type="collection">
+        <element display="true" label="Nome Categoria" max_length="40" name="nome_categoria" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

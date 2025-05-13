@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="eaf04474c3e52210311971edd4013165" label="Modello" max_length="40" name="x_849476_furgonc_0_modello" type="collection">
+        <element label="Nome Modello" max_length="40" name="nome_modello" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Marca" max_length="32" name="marca" reference="x_849476_furgonc_0_marca" type="reference"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

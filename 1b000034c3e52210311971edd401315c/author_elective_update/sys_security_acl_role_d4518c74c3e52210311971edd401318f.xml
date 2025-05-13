@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-13 18:25:22</sys_created_on>
+        <sys_id>d4518c74c3e52210311971edd401318f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_849476_furgonc_0_marca.x_849476_furgonc_0.operator</sys_name>
+        <sys_package display_value="FurgonChin" source="x_849476_furgonc_0">1b000034c3e52210311971edd401315c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FurgonChin">1b000034c3e52210311971edd401315c</sys_scope>
+        <sys_security_acl display_value="x_849476_furgonc_0_marca">14518c74c3e52210311971edd401318c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d4518c74c3e52210311971edd401318f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-13 18:25:22</sys_updated_on>
+        <sys_user_role display_value="x_849476_furgonc_0.operator" name="x_849476_furgonc_0.operator">1b000034c3e52210311971edd4013163</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="FurgonChin">1b000034c3e52210311971edd401315c</application>
+        <file_path/>
+        <instance_id>905c63a63b0bdad49aefe747f4e45ac1</instance_id>
+        <instance_name>dev292734</instance_name>
+        <name>sys_security_acl_role_d4518c74c3e52210311971edd401318f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-13 18:25:22</sys_created_on><sys_id>d4518c74c3e52210311971edd401318f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_849476_furgonc_0_marca.x_849476_furgonc_0.operator</sys_name><sys_package display_value="FurgonChin" source="x_849476_furgonc_0">1b000034c3e52210311971edd401315c</sys_package><sys_policy/><sys_scope display_value="FurgonChin">1b000034c3e52210311971edd401315c</sys_scope><sys_security_acl display_value="x_849476_furgonc_0_marca">14518c74c3e52210311971edd401318c</sys_security_acl><sys_update_name>sys_security_acl_role_d4518c74c3e52210311971edd401318f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-13 18:25:22</sys_updated_on><sys_user_role display_value="x_849476_furgonc_0.operator" name="x_849476_furgonc_0.operator">1b000034c3e52210311971edd4013163</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-710858765</payload_hash>
+        <record_name>x_849476_furgonc_0_marca.x_849476_furgonc_0.operator</record_name>
+        <reverted_from/>
+        <source>17000034c3e52210311971edd401315f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-13 18:25:22</sys_created_on>
+        <sys_id>9c518c74c3e52210311971edd401319e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196cae4eafd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-13 18:25:22</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>90518c74fbe522108cd383c0c907bc9e</update_guid>
+        <update_guid_history>90518c74fbe522108cd383c0c907bc9e:-710858765</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_849476_furgonc_0_marca.x_849476_furgonc_0.operator">2e8c10f4c3692210311971edd4013126</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-13 20:24:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0428b9d09134424c801ebf48b21a1790</sys_id>
+        <sys_metadata>d4518c74c3e52210311971edd401318f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_849476_furgonc_0_marca.x_849476_furgonc_0.operator</sys_name>
+        <sys_package display_value="FurgonChin" source="x_849476_furgonc_0">1b000034c3e52210311971edd401315c</sys_package>
+        <sys_parent display_value="">14518c74c3e52210311971edd401318c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="FurgonChin">1b000034c3e52210311971edd401315c</sys_scope>
+        <sys_scope_delete display_value="">89a4638e3a394148971340dda1cfde40</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_d4518c74c3e52210311971edd401318f</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_d4518c74c3e52210311971edd401318f">9c518c74c3e52210311971edd401319e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-13 20:24:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
