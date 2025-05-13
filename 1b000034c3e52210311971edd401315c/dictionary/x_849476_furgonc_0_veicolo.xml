@@ -2,8 +2,8 @@
     <element db_object_id="d4124cb4c3e52210311971edd4013184" label="Veicolo" max_length="40" name="x_849476_furgonc_0_veicolo" type="collection">
         <element label="Disponibile" max_length="40" name="disponibile" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Non Disponibile" sequence="1" value="non_disponibile"/>
                 <element inactive_on_update="false" label="Disponibile" sequence="0" value="disponibile"/>
+                <element inactive_on_update="false" label="Non Disponibilee" sequence="1" value="non_disponibilee"/>
             </choice>
         </element>
         <element label="Assicurabile" max_length="40" name="assicurabile" type="boolean"/>

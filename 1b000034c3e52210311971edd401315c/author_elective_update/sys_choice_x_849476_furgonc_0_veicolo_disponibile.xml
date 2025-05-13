@@ -39,19 +39,19 @@
             <element>disponibile</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Non Disponibile</label>
+            <label>Non Disponibilee</label>
             <language>en</language>
             <name>x_849476_furgonc_0_veicolo</name>
             <sequence>1</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-13 18:35:02</sys_created_on>
+            <sys_created_on>2025-05-13 21:39:31</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-13 18:35:02</sys_updated_on>
-            <value>non_disponibile</value>
+            <sys_updated_on>2025-05-13 21:39:31</sys_updated_on>
+            <value>non_disponibilee</value>
         </sys_choice>
     </sys_choice>
 </record_update>
